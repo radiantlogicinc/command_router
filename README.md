@@ -1,2 +1,2 @@
-# command_router
+# Command Router
 Intent detection and classification from natural language sentences
